@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "zone.rong.pccf.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "pccf.refmap.json",
+  "mixins": [
+    "AbstractFireBlockMixin"
+  ],
+  "minVersion": "0.8"
+}
